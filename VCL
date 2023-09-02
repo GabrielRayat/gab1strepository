@@ -1,1 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCL</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <img src="mainlogo.jpg" alt="VCL" class="logo">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div>
+        <h1>Welcome to Voices of Christ's Love</h1>
+    </div>
+
+    <section id="home">
+        <p>Harmonizing Faith, Music, and Inspiration ✨🎵</p>
+        <a href="#events" class="cta-button">Upcoming Events</a>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Learn about our choir's history, mission, and values.</p>
+        <a href="#contact" class="cta-button">Contact Us</a>
+    </section>
+
+    <section id="events">
+        <h2>Upcoming Events</h2>
+        <!-- Add event details here -->
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <!-- Add image gallery here -->
+    </section>
+
+    <section id="contact">
+    <h2>Contact Us</h2>
+    <p>For inquiries and updates, follow us on social media:</p>
+    <div class="social-links">
+        <a href="https://www.facebook.com/vclchoirofficial?mibextid=ZbWKwL" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook Logo">
+        </a>
+        <a href="https://instagram.com/vclchoir.official?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png" alt="Instagram Logo">
+        </a>
+        <a href="https://www.youtube.com/@VoicesofChristsLove" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="youtube Logo">
+        </a>
+    </div>
+</section>
+
+    <footer>
+        <p>&copy; 2023 Voices of Christ's Love. All rights reserved.</p>
+    </footer>
+    <button id="back-to-top-btn" title="Back to Top">↑</button>
+</body>
+</html>
 
